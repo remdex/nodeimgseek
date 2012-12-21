@@ -19,7 +19,7 @@ See settings.js
 For testing purposes:
 > node isk-daemon.js
 
-As service (kinda)
+As a service (kinda)
 > nohup node isk-daemon.js & > nohup.out
 
  * How to setup database?
@@ -66,7 +66,7 @@ API reference:
    * getdblist
 
 
-Live example:
+Live examples:
 =============
  * http://artmight.com/similar/image/264052
  * http://dressworlds.com/similar/image/8706
